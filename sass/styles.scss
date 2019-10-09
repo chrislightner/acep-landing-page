@@ -1,15 +1,10 @@
-//Open Sans import from Google Fonts
-@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,700,800");
-//font-family: 'Open Sans', sans-serif;
-
 /****************************************/
 
 /*             Variables                */
 
 /****************************************/
 
-$font-stack: "Open Sans",
-Helvetica,
+$font-stack: Helvetica,
 Arial,
 "Lucida Grande",
 sans-serif;
@@ -17,9 +12,9 @@ $font-stack-system: Helvetica,
 Arial,
 "Lucida Grande",
 sans-serif;
-$font-stack-headers: "Open Sans",
+$font-stack-headers: Helvetica,
 serif;
-$primary-color: #3178b6; //blue
+$primary-color: #0065bd; //blue
 $secondary-color: #002060; //darkblue
 
 //colors pulled from https://www.agd.org/
@@ -28,64 +23,12 @@ $agd-main-blue: #3178b6;
 
 $agd-blue: #00b0f0;
 $agd-darkblue: #002060;
-$agd-green: #92d050;
-$agd-orange: #e36c09;
-$agd-purple: #5e367d;
-$agd-greenblue: #669694;
-
-$agd-faded-green: #62851e;
-$agd-faded-orange: #b61;
-
 $agd-button-blue:#00709d;
 $agd-button-blue-hover:#003951;
 
 body {
-    font-family: 'Open Sans', sans-serif;
+    font-family: $font-stack;
     padding: 0;
-}
-
-.bg-blue {
-    background-color: $agd-main-blue;
-}
-
-.bg-green {
-    background-color: $agd-faded-green;
-}
-
-.bg-orange {
-    background-color: $agd-orange;
-}
-
-.bg-purple {
-    background-color: $agd-purple;
-}
-
-.bg-greenblue {
-    background-color: $agd-greenblue;
-}
-
-.blue {
-    color: $agd-main-blue;
-}
-
-.darkblue {
-    color: $agd-button-blue-hover;
-}
-
-.orange {
-    color: $agd-orange;
-}
-
-.purple {
-    color: $agd-purple;
-}
-
-.green {
-    color: $agd-faded-green;
-}
-
-.greenblue {
-    color: $agd-greenblue;
 }
 
 .btn {
@@ -130,20 +73,33 @@ main {
 
 .jumbotron {
     background-color: #ffffff;
-    background-image: url(../images/istockphoto-501713762-2048x2048.jpg);
-    background-size: 80%;
-    background-repeat: no-repeat;
-    background-position: bottom right;
-    background-position-x: 210%;
-    height: 300px;
+    background-image: url(../images/acp_6881.jpg);
+    background-size: cover;
+    background-position-x: 50%;
+    height: 275px;
     margin-bottom: 0;
+    overflow: hidden;
+    border-radius: 0;
 
     h1 {
         font-weight: 800;
-        width: 50%;
+        width: 70%;
         line-height: 1.1em;
-        font-size: 1.25rem;
+        font-size: 1.7rem;
     }
+}
+
+.jumbotron::after {
+    content: "";
+    background-image: url(../images/curve-interior-ACEP1_bl.svg);
+    background-size: 103vw;
+    background-repeat: repeat;
+    height: 50px;
+    width: 100%;
+    left: 0;
+    position: absolute;
+    bottom: 0px;
+
 }
 
 .banner {
@@ -162,9 +118,10 @@ main {
 
 .coverages {
     .col-lg {
-        padding: 0;
         margin: 5px 10px;
         text-align: center;
+        background-color: rgba(0, 0, 0, 0.7);
+        padding: 0 0 3rem;
 
         .h2 {
             font-size: 1.0rem;
@@ -183,16 +140,28 @@ main {
             padding: .2rem 1rem;
             text-align: left;
             color: #fff;
-            margin-bottom: 50px;
         }
 
+
         .btn {
+            background-color: #ffbd00;
+            border: 1px solid #ffbd00;
             position: absolute;
             left: 20px;
             right: 20px;
             bottom: 20px;
             max-width: 150px;
             margin: 0 auto;
+            color: #000;
+            transition: all .3s ease-in;
+            text-transform: uppercase;
+            border-radius: 1rem;
+            font-weight: bold;
+        }
+
+        .btn:hover {
+            background-color: rgba(255, 189, 0, 0);
+            color: #ffbd00;
         }
     }
 }
@@ -238,17 +207,17 @@ footer {
 // custom
 @media (min-width: 380px) {
     .jumbotron {
-        background-position: top right;
-        background-position-x: 210%;
+        // background-position: top right;
+        // background-position-x: 210%;
     }
 }
 
 // Small devices (landscape phones, 576px and up)
 @media (min-width: 576px) {
     .jumbotron {
-        background-size: 60%;
-        background-position: top right;
-        background-position-x: 120%;
+        // background-size: 60%;
+        // background-position: top right;
+        // background-position-x: 120%;
         padding: 4rem 2rem 0;
 
         h1 {
@@ -260,15 +229,19 @@ footer {
 // Medium devices (tablets, 768px and up)
 @media (min-width: 768px) {
     .jumbotron {
-        background-size: 60%;
-        background-position: top right;
-        background-position-x: 125%;
+        // background-size: 60%;
+        // background-position: top right;
+        // background-position-x: 125%;
         height: 350px;
 
         h1 {
             font-size: 3em;
             width: 65%;
         }
+    }
+
+    .jumbotron::after {
+        height: 75px;
     }
 
     .navbar {
@@ -286,6 +259,10 @@ footer {
         height: 400px;
     }
 
+    .jumbotron::after {
+        height: 100px;
+    }
+
     .navbar {
         img {
             width: 250px;
@@ -300,10 +277,10 @@ footer {
 
     .coverages {
         .col-lg {
-            height: 450px;
+            padding: 0 0 6rem;
 
             .h2 {
-                height: 25%;
+                height: 40%;
                 position: relative;
 
                 div {
@@ -320,9 +297,9 @@ footer {
 @media (min-width: 1200px) {
 
     .jumbotron {
-        background-size: 50%;
-        background-position-x: 100%;
-        background-position-y: 15%;
+        // background-size: 50%;
+        // background-position-x: 100%;
+        // background-position-y: 15%;
         height: 450px;
 
         h1 {
@@ -331,9 +308,13 @@ footer {
         }
     }
 
-    .coverages {
-        .col-lg {
-            height: 400px;
-        }
+}
+
+// Extra large devices (large desktops, 1200px and up)
+@media (min-width: 1500px) {
+
+    .jumbotron::after {
+        height: 150px;
     }
+
 }
