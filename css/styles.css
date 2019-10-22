@@ -3,33 +3,25 @@
 /****************************************/
 body {
   font-family: Helvetica, Arial, "Lucida Grande", sans-serif;
-  padding: 0;
-}
+  padding: 0; }
 
 .btn {
-  margin-bottom: 1rem;
-}
+  margin-bottom: 1rem; }
 
 .navbar {
-  background-color: rgba(52, 58, 64, 0.1) !important;
-}
-
-.navbar img {
-  width: 150px;
-  margin-right: 20px;
-  height: auto;
-  -ms-interpolation-mode: bicubic;
-}
-
-.navbar .phonenumber {
-  font-size: .9em;
-  width: 100%;
-  text-align: center;
-}
+  background-color: rgba(52, 58, 64, 0.1) !important; }
+  .navbar img {
+    width: 150px;
+    margin-right: 20px;
+    height: 27px;
+    -ms-interpolation-mode: bicubic; }
+  .navbar .phonenumber {
+    font-size: .9em;
+    width: 100%;
+    text-align: center; }
 
 .small {
-  font-size: 1.0rem;
-}
+  font-size: 1.0rem; }
 
 .scrolldown {
   width: 50px;
@@ -38,13 +30,11 @@ body {
   left: 0;
   right: 0;
   bottom: 10px;
-  border: none;
-}
+  border: none; }
 
 main {
   background-color: #efefef;
-  padding-bottom: 20px;
-}
+  padding-bottom: 20px; }
 
 .jumbotron {
   background-color: #ffffff;
@@ -54,15 +44,12 @@ main {
   height: 275px;
   margin-bottom: 0;
   overflow: hidden;
-  border-radius: 0;
-}
-
-.jumbotron h1 {
-  font-weight: 800;
-  width: 70%;
-  line-height: 1.1em;
-  font-size: 1.7rem;
-}
+  border-radius: 0; }
+  .jumbotron h1 {
+    font-weight: 800;
+    width: 70%;
+    line-height: 1.1em;
+    font-size: 1.7rem; }
 
 .jumbotron::after {
   content: "";
@@ -73,183 +60,128 @@ main {
   width: 100%;
   left: 0;
   position: absolute;
-  bottom: 0px;
-}
+  bottom: 0px; }
 
 .banner {
   background-color: #0065bd;
   color: #ffffff;
-  padding: 10px;
-}
-
-.banner h2 {
-  font-size: 1.5rem;
-  text-transform: uppercase;
-  margin: 0;
-  padding: 0;
-  letter-spacing: .05em;
-}
+  padding: 10px; }
+  .banner h2 {
+    font-size: 1.5rem;
+    text-transform: uppercase;
+    margin: 0;
+    padding: 0;
+    letter-spacing: .05em; }
 
 .coverages .col-lg {
   margin: 5px 10px;
   text-align: center;
   background-color: rgba(0, 0, 0, 0.7);
-  padding: 0 0 3rem;
-}
-
-.coverages .col-lg .h2 {
-  font-size: 1.0rem;
-  color: #ffffff;
-  font-weight: 700;
-  background-color: rgba(0, 0, 0, 0.2);
-  padding: .2rem 0;
-}
-
-.coverages .col-lg .h2 div {
-  padding: 1rem;
-  text-align: left;
-}
-
-.coverages .col-lg p {
-  padding: .2rem 1rem;
-  text-align: left;
-  color: #fff;
-}
-
-.coverages .col-lg .btn {
-  background-color: #ffbd00;
-  border: 1px solid #ffbd00;
-  position: absolute;
-  left: 20px;
-  right: 20px;
-  bottom: 20px;
-  max-width: 150px;
-  margin: 0 auto;
-  color: #000;
-  transition: all .3s ease-in;
-  text-transform: uppercase;
-  border-radius: 1rem;
-  font-weight: bold;
-}
-
-.coverages .col-lg .btn:hover {
-  background-color: rgba(255, 189, 0, 0);
-  color: #ffbd00;
-}
+  padding: 0 0 3rem; }
+  .coverages .col-lg .h2 {
+    font-size: 1.0rem;
+    color: #ffffff;
+    font-weight: 700;
+    background-color: rgba(0, 0, 0, 0.2);
+    padding: .2rem 0; }
+    .coverages .col-lg .h2 div {
+      padding: 1rem;
+      text-align: left; }
+  .coverages .col-lg p {
+    padding: .2rem 1rem;
+    text-align: left;
+    color: #fff; }
+  .coverages .col-lg .btn {
+    background-color: #ffbd00;
+    border: 1px solid #ffbd00;
+    position: absolute;
+    left: 20px;
+    right: 20px;
+    bottom: 20px;
+    max-width: 150px;
+    margin: 0 auto;
+    color: #000;
+    transition: all .3s ease-in;
+    text-transform: uppercase;
+    border-radius: 1rem;
+    font-weight: bold; }
+  .coverages .col-lg .btn:hover {
+    background-color: rgba(255, 189, 0, 0);
+    color: #ffbd00; }
 
 .secondary-page {
   padding-top: 30px;
-  padding-bottom: 30px;
-}
-
-.secondary-page h1 {
-  margin: 0 0 30px;
-}
-
-.secondary-page h2 {
-  font-weight: 700;
-}
-
-.secondary-page #accordion h5 {
-  font-size: 1rem;
-}
-
-.secondary-page .sidebar {
-  padding: 20px;
-  background-color: #f9f9f9;
-}
-
-.secondary-page .card-header {
-  cursor: pointer;
-}
+  padding-bottom: 30px; }
+  .secondary-page h1 {
+    margin: 0 0 30px; }
+  .secondary-page h2 {
+    font-weight: 700; }
+  .secondary-page #accordion h5 {
+    font-size: 1rem; }
+  .secondary-page .sidebar {
+    padding: 20px;
+    background-color: #f9f9f9; }
+  .secondary-page .card-header {
+    cursor: pointer; }
 
 footer {
   padding: 20px 0 0;
   font-size: .75rem;
-  color: #666;
-}
+  color: #666; }
 
 @media (min-width: 576px) {
   .jumbotron {
-    padding: 4rem 2rem 0;
-  }
-
-  .jumbotron h1 {
-    font-size: 2em;
-  }
-}
-
+    padding: 4rem 2rem 0; }
+    .jumbotron h1 {
+      font-size: 2em; } }
 @media (min-width: 768px) {
   .jumbotron {
-    height: 350px;
-  }
-
-  .jumbotron h1 {
-    font-size: 3em;
-    width: 65%;
-  }
+    height: 350px; }
+    .jumbotron h1 {
+      font-size: 3em;
+      width: 65%; }
 
   .jumbotron::after {
-    height: 75px;
-  }
+    height: 75px; }
 
   .navbar .phonenumber {
     width: auto;
     text-align: right;
-    display: inline-block;
-  }
-}
-
+    display: inline-block; } }
 @media (min-width: 992px) {
   .jumbotron {
-    height: 400px;
-  }
+    height: 400px; }
 
   .jumbotron::after {
-    height: 100px;
-  }
+    height: 100px; }
+
+  .btn {
+    width: 100%; }
 
   .navbar img {
     width: 250px;
-    height: auto;
-    -ms-interpolation-mode: bicubic;
-  }
-
+    height: 45px;
+    -ms-interpolation-mode: bicubic; }
   .navbar .phonenumber {
-    font-size: 1em;
-  }
+    font-size: 1em; }
 
   .coverages .col-lg {
-    padding: 0 0 6rem;
-  }
-
-  .coverages .col-lg .h2 {
-    height: 40%;
-    position: relative;
-  }
-
-  .coverages .col-lg .h2 div {
-    position: absolute;
-    bottom: 0;
-    padding: .5rem 1rem;
-  }
-}
-
+    padding: 0 0 6rem; }
+    .coverages .col-lg .h2 {
+      height: 40%;
+      position: relative; }
+      .coverages .col-lg .h2 div {
+        position: absolute;
+        bottom: 0;
+        padding: .5rem 1rem; } }
 @media (min-width: 1200px) {
   .jumbotron {
-    height: 450px;
-  }
-
-  .jumbotron h1 {
-    font-size: 4em;
-    width: 60%;
-  }
-}
-
+    height: 450px; }
+    .jumbotron h1 {
+      font-size: 4em;
+      width: 60%; } }
 @media (min-width: 1500px) {
   .jumbotron::after {
-    height: 150px;
-  }
-}
+    height: 150px; } }
 
 /*# sourceMappingURL=styles.css.map */

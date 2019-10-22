@@ -41,7 +41,7 @@ body {
     img {
         width: 150px;
         margin-right: 20px;
-        height: auto;
+        height: 27px;
         -ms-interpolation-mode: bicubic;
     }
 
@@ -73,7 +73,7 @@ main {
 
 .jumbotron {
     background-color: #ffffff;
-    background-image: url(../images/acp_6881.jpg);
+    background-image: url(../images/904805198.jpg);
     background-size: cover;
     background-position-x: 50%;
     height: 275px;
@@ -263,10 +263,14 @@ footer {
         height: 100px;
     }
 
+    .btn {
+        width: 100%;
+    }
+
     .navbar {
         img {
             width: 250px;
-            height: auto;
+            height: 45px;
             -ms-interpolation-mode: bicubic;
         }
 
