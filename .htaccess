@@ -1,3 +1,10 @@
-RewriteEngine On 
-RewriteCond %{SERVER_PORT} 80 
-RewriteRule ^(.*)$ https://www.showmycost.com/$1 [R,L]
+##Force SSL 
+
+#Normal way (in case you need to deploy to NON-heroku)
+RewriteCond %{HTTPS} !=on
+
+#Heroku way
+RewriteCond %{HTTP:X-Forwarded-Proto} !https 
+
+#If neither above conditions are met, redirect to https
+RewriteRule ^ https://www.showmycost.com [L,R=301]
