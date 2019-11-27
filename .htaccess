@@ -9,13 +9,13 @@
 #If neither above conditions are met, redirect to https
 #RewriteRule ^ https://www.acepinsurance.com [L,R=301]
 
-Redirect 301 /disability/disability-insurance/ https://www.acepinsurance.com 
+Redirect 301 /disability/disability-insurance https://www.acepinsurance.com 
 
 Redirect 301 /health/acep-health-insurance https://www.acepinsurance.com 
 
 Redirect 301 /disability/disability-insurance2014-4-2PDFNational https://www.acepinsurance.com 
 
-Redirect 301 /other-benefits/group-auto-home/ https://www.acepinsurance.com/additional.htm 
+Redirect 301 /other-benefits/group-auto-home https://www.acepinsurance.com/additional.htm 
 
 Redirect 301 /life/term-life-insurance https://www.acepinsurance.com 
 
@@ -23,7 +23,7 @@ Redirect 301 /other-benefits/professional-liability https://www.acepinsurance.co
 
 Redirect 301 /other-benefits/MedMal https://www.acepinsurance.com/additional.htm 
 
-Redirect 301 /forms/ https://www.acepinsurance.com/forms.htm
+Redirect 301 /forms https://www.acepinsurance.com/forms.htm
 
 Redirect 301 /Life https://www.acepinsurance.com 
 
@@ -31,13 +31,13 @@ Redirect 301 /disability/disability https://www.acepinsurance.com
 
 Redirect 301 /about-hbi/disclaimer https://www.acepinsurance.com 
 
-Redirect 301 /disability/disability-faq/ https://www.acepinsurance.com 
+Redirect 301 /disability/disability-faq https://www.acepinsurance.com 
 
-Redirect 301 /life/term-life-insurance-plan/ https://www.acepinsurance.com 
+Redirect 301 /life/term-life-insurance-plan https://www.acepinsurance.com 
 
-Redirect 301 /disability/earnings-guard/ https://www.acepinsurance.com 
+Redirect 301 /disability/earnings-guard https://www.acepinsurance.com 
 
-Redirect 301 /other-benefits/dental-vision/ https://www.acepinsurance.com/additional.htm 
+Redirect 301 /other-benefits/dental-vision https://www.acepinsurance.com/additional.htm 
 
 Redirect 301 /about-hbi/other-benefits/professional-liability https://www.acepinsurance.com/additional.htm 
 
@@ -59,7 +59,7 @@ Redirect 301 /about-hbi/contact-hbi https://www.acepinsurance.com/contact.htm
 
 Redirect 301 /health/other-benefits/professional-liability https://www.acepinsurance.com/additional.htm 
 
-Redirect 301 /life/term-life-insurance-faq/ https://www.acepinsurance.com 
+Redirect 301 /life/term-life-insurance-faq https://www.acepinsurance.com 
 
 Redirect 301 /other-benefits/other-benefits/professional-liability https://www.acepinsurance.com 
 
