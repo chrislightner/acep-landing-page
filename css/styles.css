@@ -91,6 +91,9 @@ main {
     padding: .2rem 1rem;
     text-align: left;
     color: #fff; }
+    .coverages .col-lg p sup {
+      font-size: 50%;
+      top: -.75em; }
   .coverages .col-lg .btn {
     background-color: #ffbd00;
     border: 1px solid #ffbd00;
@@ -166,7 +169,7 @@ footer {
     font-size: 1em; }
 
   .coverages .col-lg {
-    padding: 0 0 6rem; }
+    padding: 0 0 8rem; }
     .coverages .col-lg .h2 {
       height: 40%;
       position: relative; }
