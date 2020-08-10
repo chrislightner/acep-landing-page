@@ -86,7 +86,7 @@
           </div>
           <p>Add to your disability coverage with up to $10,000 in monthly benefits, paid straight to you and typically
             tax-free, if you’re prevented from working in your own chosen profession.</p>
-          <a class="btn btn-outline-light" href="https://coveragedetails.net/acep/di/5199" role="button" target="_blank">View
+          <a class="btn btn-outline-light" href="https://coveragedetails.net/acep/di" role="button" target="_blank">View
             details</a>
         </div>
         <div class="col-lg">
@@ -95,7 +95,7 @@
           </div>
           <p>Affordable financial protection for your loved ones that lets you choose the monthly premium you want to
             pay.</p>
-          <a class="btn btn-outline-light" href="https://coveragedetails.net/acep/tl/5200" role="button" target="_blank">View
+          <a class="btn btn-outline-light" href="https://coveragedetails.net/acep/tl" role="button" target="_blank">View
             details</a>
         </div>
         <div class="col-lg">
