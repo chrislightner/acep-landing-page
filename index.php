@@ -95,7 +95,7 @@
           </div>
           <p>Affordable financial protection for your loved ones that lets you choose the monthly premium you want to
             pay.</p>
-          <a class="btn btn-outline-light" href="https://coveragedetails.net/acep/tl" role="button" target="_blank">View
+          <a class="btn btn-outline-light" href="https://www.coveragedetails.net/acep/life" role="button" target="_blank">View
             details</a>
         </div>
         <div class="col-lg">
