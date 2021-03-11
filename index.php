@@ -77,7 +77,7 @@
 
     <div class="container coverages">
       <div class="text-center">
-        <p>Choose a coverage below to learn more.</p>
+        <p>Choose a coverage below to view costs, features, eligibility, renewability, limitations and exclusions.</p>
       </div>
       <div class="row">
         <div class="col-lg">
@@ -85,15 +85,15 @@
             <div>Group Disability Income Insurance</div>
           </div>
           <p>Add to your disability coverage with up to $10,000 in monthly benefits, paid straight to you and typically
-            tax-free, if you’re prevented from working in your own chosen profession.</p>
+            tax-free,<sup>*</sup> if a covered disability prevents you from working full time in your chosen profession.</p>
           <a class="btn btn-outline-light" href="https://coveragedetails.net/acep/di" role="button" target="_blank">View
             details</a>
         </div>
         <div class="col-lg">
           <div class="h2">
-            <div>Group Life Insurance</div>
+            <div>Group Term Life Insurance</div>
           </div>
-          <p>Affordable financial protection for your loved ones that lets you choose the monthly premium you want to
+          <p>Financial protection for your loved ones that lets you choose the monthly premium you want to
             pay.</p>
           <a class="btn btn-outline-light" href="https://www.coveragedetails.net/acep/life" role="button" target="_blank">View
             details</a>
@@ -113,6 +113,13 @@
           </div>
           <p>Save up to 10% on ASPCA Pet Health Insurance! Complete Coverage<sup>SM</sup> can help you give your pet the best care possible with less worry about the cost.</p>
           <a class="btn btn-outline-light" href="https://www.aspcapetinsurance.com/ACEP" role="button">View details</a>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col">
+          <p class="footnote">
+            <sup>*</sup> Insurance coverage purchased with your own funds is generally not taxable under current tax regulations. You may wish to consult a personal Tax Advisor for further information
+          </p>
         </div>
       </div>
     </div> <!-- /container -->

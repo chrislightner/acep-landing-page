@@ -111,6 +111,11 @@ main {
   .coverages .col-lg .btn:hover {
     background-color: rgba(255, 189, 0, 0);
     color: #ffbd00; }
+.coverages .footnote {
+  margin-top: 15px;
+  font-size: 12px; }
+  .coverages .footnote sup {
+    top: -.25em; }
 
 .secondary-page {
   padding-top: 30px;

@@ -147,7 +147,6 @@ main {
             }
         }
 
-
         .btn {
             background-color: #ffbd00;
             border: 1px solid #ffbd00;
@@ -167,6 +166,15 @@ main {
         .btn:hover {
             background-color: rgba(255, 189, 0, 0);
             color: #ffbd00;
+        }
+    }
+
+    .footnote {
+        margin-top: 15px;
+        font-size: 12px;
+
+        sup {
+            top: -.25em;
         }
     }
 }
