@@ -1,4 +1,6 @@
-# ACEP Insurance Landing Page
+# ACEP Insurance Landing Page 
+
+https://www.acepinsurance.com/
 
 This site uses W3 html includes. In order to work on this locally, you must use a local dev server running php, such as MAMP, and view it via localhost. Just previewing in a browser won't execute the includes.
 
@@ -33,3 +35,5 @@ In order to "trick" Heroku into serving this static site (it is not an app), we 
 ``index.php`` There is no php code to execute, but Heroku will be looking for an index.php page - so we use this as our home page
 
 ---
+
+## Redeploy to Heroku 20 10/18/21
