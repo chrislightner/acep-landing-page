@@ -1,13 +1,8 @@
 ##Force SSL 
 
-#Normal way (in case you need to deploy to NON-heroku)
-#RewriteCond %{HTTPS} !=on
-
-#Heroku way
-#RewriteCond %{HTTP:X-Forwarded-Proto} !https 
-
-#If neither above conditions are met, redirect to https
-#RewriteRule ^ https://www.acepinsurance.com [L,R=301]
+<If "%{HTTPS} == 'off'">
+    Redirect permanent "/" "https://www.acepinsurance.com"
+</If>
 
 Redirect 301 /disability/disability-insurance https://www.acepinsurance.com 
 
