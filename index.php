@@ -114,6 +114,13 @@
           <p>Save up to 10% on ASPCA Pet Health Insurance! Complete Coverage<sup>SM</sup> can help you give your pet the best care possible with less worry about the cost.</p>
           <a class="btn btn-outline-light" href="https://www.aspcapetinsurance.com/ACEP" role="button">View details</a>
         </div>
+        <div class="col-lg">
+          <div class="h2">
+            <div>Health Insurance and Employee Benefits for Firms</div>
+          </div>
+          <p>Health plan options and employee benefits for ACEP members and practices.</p>
+          <a class="btn btn-outline-light" href="http://getkasa.io/acep/" role="button">View details</a>
+        </div>
       </div>
       <div class="row">
         <div class="col">

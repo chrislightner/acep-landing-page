@@ -90,7 +90,8 @@ main {
   .coverages .col-lg p {
     padding: .2rem 1rem;
     text-align: left;
-    color: #fff; }
+    color: #fff;
+    margin-bottom: 4rem; }
     .coverages .col-lg p sup {
       font-size: 50%;
       top: -.75em; }
