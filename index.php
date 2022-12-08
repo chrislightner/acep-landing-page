@@ -93,8 +93,7 @@
           <div class="h2">
             <div>Group Term Life Insurance</div>
           </div>
-          <p>Financial protection for your loved ones that lets you choose the monthly premium you want to
-            pay.</p>
+          <p>Financial protection for your loved ones that lets you choose the monthly premium you want to&nbsp;pay.</p>
           <a class="btn btn-outline-light" href="https://www.coveragedetails.net/acep/life" role="button" target="_blank">View
             details</a>
         </div>
@@ -111,12 +110,12 @@
           <div class="h2">
             <div>Pet Insurance</div>
           </div>
-          <p>Save up to 10% on ASPCA Pet Health Insurance! Complete Coverage<sup>SM</sup> can help you give your pet the best care possible with less worry about the cost.</p>
+          <p>Save up to 10% on ASPCA Pet Health Insurance! Complete Coverage<sup>SM</sup> can help you give your pet the best care possible with less worry about the&nbsp;cost.</p>
           <a class="btn btn-outline-light" href="https://www.aspcapetinsurance.com/ACEP" role="button">View details</a>
         </div>
         <div class="col-lg">
           <div class="h2">
-            <div>Health Insurance and Employee Benefits for Firms</div>
+            <div>Health Insurance and Employee Benefits for&nbsp;Firms</div>
           </div>
           <p>Health plan options and employee benefits for ACEP members and practices.</p>
           <a class="btn btn-outline-light" href="http://getkasa.io/acep/" role="button">View details</a>
