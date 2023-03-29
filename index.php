@@ -101,8 +101,7 @@
           <div class="h2">
             <div>Additional Insurance</div>
           </div>
-          <p>Information about Professional Liability Insurance, Dental and Vision Insurance, Long-Term Care Insurance
-            and Group Home and Auto Insurance for
+          <p>Information about Professional Liability Insurance, Dental and Vision Insurance and Long-Term Care Insurance for
             ACEP members.</p>
           <a class="btn btn-outline-light" href="additional.htm" role="button">View details</a>
         </div>
@@ -119,6 +118,13 @@
           </div>
           <p>Health plan options and employee benefits for ACEP members and practices.</p>
           <a class="btn btn-outline-light" href="http://getkasa.io/acep/" role="button">View details</a>
+        </div>
+        <div class="col-lg">
+          <div class="h2">
+            <div>Auto and Home Insurance</div>
+          </div>
+          <p>Discounted auto, home, and renter’s insurance through Farmers Insurance Choice.<sup>SM</sup></p>
+          <a class="btn btn-outline-light" href="https://farmersinsurancechoice.com/ACEP" role="button">View details</a>
         </div>
       </div>
       <div class="row">
