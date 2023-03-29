@@ -73,29 +73,29 @@ main {
     padding: 0;
     letter-spacing: .05em; }
 
-.coverages .col-lg {
+.coverages .column {
   margin: 5px 10px;
   text-align: center;
   background-color: rgba(0, 0, 0, 0.7);
   padding: 0 0 3rem; }
-  .coverages .col-lg .h2 {
+  .coverages .column .h2 {
     font-size: 1.0rem;
     color: #ffffff;
     font-weight: 700;
     background-color: rgba(0, 0, 0, 0.2);
     padding: .2rem 0; }
-    .coverages .col-lg .h2 div {
+    .coverages .column .h2 div {
       padding: 1rem;
       text-align: left; }
-  .coverages .col-lg p {
+  .coverages .column p {
     padding: .2rem 1rem;
     text-align: left;
     color: #fff;
     margin-bottom: 4rem; }
-    .coverages .col-lg p sup {
+    .coverages .column p sup {
       font-size: 50%;
       top: -.75em; }
-  .coverages .col-lg .btn {
+  .coverages .column .btn {
     background-color: #ffbd00;
     border: 1px solid #ffbd00;
     position: absolute;
@@ -109,7 +109,7 @@ main {
     text-transform: uppercase;
     border-radius: 1rem;
     font-weight: bold; }
-  .coverages .col-lg .btn:hover {
+  .coverages .column .btn:hover {
     background-color: rgba(255, 189, 0, 0);
     color: #ffbd00; }
 .coverages .footnote {
@@ -158,6 +158,9 @@ footer {
     text-align: right;
     display: inline-block; } }
 @media (min-width: 992px) {
+  .container {
+    max-width: 98%; }
+
   .jumbotron {
     height: 400px; }
 
@@ -174,16 +177,19 @@ footer {
   .navbar .phonenumber {
     font-size: 1em; }
 
-  .coverages .col-lg {
+  .coverages .column {
     padding: 0 0 8rem; }
-    .coverages .col-lg .h2 {
+    .coverages .column .h2 {
       height: 40%;
       position: relative; }
-      .coverages .col-lg .h2 div {
+      .coverages .column .h2 div {
         position: absolute;
         bottom: 0;
         padding: .5rem 1rem; } }
 @media (min-width: 1200px) {
+  .container {
+    max-width: 1260px; }
+
   .jumbotron {
     height: 450px; }
     .jumbotron h1 {
