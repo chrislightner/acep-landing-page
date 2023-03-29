@@ -80,7 +80,7 @@
         <p>Choose a coverage below to view costs, features, eligibility, renewability, limitations and exclusions.</p>
       </div>
       <div class="row">
-        <div class="col-lg">
+        <div class="col-xl column">
           <div class="h2">
             <div>Group Disability Income Insurance</div>
           </div>
@@ -89,7 +89,7 @@
           <a class="btn btn-outline-light" href="https://coveragedetails.net/acep/di" role="button" target="_blank">View
             details</a>
         </div>
-        <div class="col-lg">
+        <div class="col-xl column">
           <div class="h2">
             <div>Group Term Life Insurance</div>
           </div>
@@ -97,7 +97,7 @@
           <a class="btn btn-outline-light" href="https://www.coveragedetails.net/acep/life" role="button" target="_blank">View
             details</a>
         </div>
-        <div class="col-lg">
+        <div class="col-xl column">
           <div class="h2">
             <div>Additional Insurance</div>
           </div>
@@ -105,21 +105,21 @@
             ACEP members.</p>
           <a class="btn btn-outline-light" href="additional.htm" role="button">View details</a>
         </div>
-        <div class="col-lg">
+        <div class="col-xl column">
           <div class="h2">
             <div>Pet Insurance</div>
           </div>
           <p>Save up to 10% on ASPCA Pet Health Insurance! Complete Coverage<sup>SM</sup> can help you give your pet the best care possible with less worry about the&nbsp;cost.</p>
           <a class="btn btn-outline-light" href="https://www.aspcapetinsurance.com/ACEP" role="button">View details</a>
         </div>
-        <div class="col-lg">
+        <div class="col-xl column">
           <div class="h2">
             <div>Health Insurance and Employee Benefits for&nbsp;Firms</div>
           </div>
           <p>Health plan options and employee benefits for ACEP members and practices.</p>
           <a class="btn btn-outline-light" href="http://getkasa.io/acep/" role="button">View details</a>
         </div>
-        <div class="col-lg">
+        <div class="col-xl column">
           <div class="h2">
             <div>Auto and Home Insurance</div>
           </div>
