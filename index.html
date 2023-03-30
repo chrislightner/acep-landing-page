@@ -99,14 +99,6 @@
         </div>
         <div class="col-xl column">
           <div class="h2">
-            <div>Additional Insurance</div>
-          </div>
-          <p>Information about Professional Liability Insurance, Dental and Vision Insurance and Long-Term Care Insurance for
-            ACEP members.</p>
-          <a class="btn btn-outline-light" href="additional.htm" role="button">View details</a>
-        </div>
-        <div class="col-xl column">
-          <div class="h2">
             <div>Pet Insurance</div>
           </div>
           <p>Save up to 10% on ASPCA Pet Health Insurance! Complete Coverage<sup>SM</sup> can help you give your pet the best care possible with less worry about the&nbsp;cost.</p>
@@ -125,6 +117,14 @@
           </div>
           <p>Discounted auto, home, and renter’s insurance through Farmers Insurance Choice.<sup>SM</sup></p>
           <a class="btn btn-outline-light" href="https://farmersinsurancechoice.com/ACEP" role="button">View details</a>
+        </div>
+        <div class="col-xl column">
+          <div class="h2">
+            <div>Additional Insurance</div>
+          </div>
+          <p>Information about Professional Liability Insurance, Dental and Vision Insurance and Long-Term Care Insurance for
+            ACEP members.</p>
+          <a class="btn btn-outline-light" href="additional.htm" role="button">View details</a>
         </div>
       </div>
       <div class="row">
