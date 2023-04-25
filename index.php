@@ -85,7 +85,8 @@
             <div>Group Disability Income Insurance</div>
           </div>
           <p>Add to your disability coverage with up to $10,000 in monthly benefits, paid straight to you and typically
-            tax-free,<sup>*</sup> if a covered disability prevents you from working full time in your chosen profession.</p>
+            tax-free,<sup>*</sup> if a covered disability prevents you from working full time in your chosen profession.
+          </p>
           <a class="btn btn-outline-light" href="https://coveragedetails.net/acep/di" role="button" target="_blank">View
             details</a>
         </div>
@@ -94,16 +95,21 @@
             <div>Group Term Life Insurance</div>
           </div>
           <p>Financial protection for your loved ones that lets you choose the monthly premium you want to&nbsp;pay.</p>
-          <a class="btn btn-outline-light" href="https://www.coveragedetails.net/acep/life" role="button" target="_blank">View
+          <a class="btn btn-outline-light" href="https://www.coveragedetails.net/acep/life" role="button"
+            target="_blank">View
             details</a>
         </div>
         <div class="col-xl column">
           <div class="h2">
             <div>Pet Insurance</div>
           </div>
-          <p>Save up to 10% on ASPCA Pet Health Insurance! Complete Coverage<sup>SM</sup> can help you give your pet the best care possible with less worry about the&nbsp;cost.</p>
+          <p>Save up to 10% on ASPCA Pet Health Insurance! Complete Coverage<sup>SM</sup> can help you give your pet the
+            best care possible with less worry about the&nbsp;cost.</p>
           <a class="btn btn-outline-light" href="https://www.aspcapetinsurance.com/ACEP" role="button">View details</a>
         </div>
+      </div>
+
+      <div class="row">
         <div class="col-xl column">
           <div class="h2">
             <div>Health Insurance and Employee Benefits for&nbsp;Firms</div>
@@ -122,15 +128,24 @@
           <div class="h2">
             <div>Additional Insurance</div>
           </div>
-          <p>Information about Professional Liability Insurance, Dental and Vision Insurance and Long-Term Care Insurance for
+          <p>Information about Professional Liability Insurance, Dental and Vision Insurance and Long-Term Care
+            Insurance for
             ACEP members.</p>
           <a class="btn btn-outline-light" href="additional.htm" role="button">View details</a>
+        </div>
+        <div class="col-xl column">
+          <div class="h2">
+            <div>Cyber Insurance for Firms</div>
+          </div>
+          <p>Intelligent, Robust, Affordable Cyber Insurance</p>
+          <a class="btn btn-outline-light" href="https://marketing.seedpodcyber.com/acepsales" role="button">View details</a>
         </div>
       </div>
       <div class="row">
         <div class="col">
           <p class="footnote">
-            <sup>*</sup> Insurance coverage purchased with your own funds is generally not taxable under current tax regulations. You may wish to consult a personal Tax Advisor for further information
+            <sup>*</sup> Insurance coverage purchased with your own funds is generally not taxable under current tax
+            regulations. You may wish to consult a personal Tax Advisor for further information
           </p>
         </div>
       </div>
