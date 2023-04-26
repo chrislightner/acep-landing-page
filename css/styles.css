@@ -74,10 +74,10 @@ main {
     letter-spacing: .05em; }
 
 .coverages .column {
-  margin: 5px 10px;
   text-align: center;
   background-color: rgba(0, 0, 0, 0.7);
-  padding: 0 0 3rem; }
+  padding: 0 0 3rem;
+  border: 10px solid #efefef; }
   .coverages .column .h2 {
     font-size: 1.0rem;
     color: #ffffff;
