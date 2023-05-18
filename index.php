@@ -101,11 +101,10 @@
         </div>
         <div class="col-xl-3 column">
           <div class="h2">
-            <div>Pet Insurance</div>
+            <div>Dental Insurance</div>
           </div>
-          <p>Save up to 10% on ASPCA Pet Health Insurance! Complete Coverage<sup>SM</sup> can help you give your pet the
-            best care possible with less worry about the&nbsp;cost.</p>
-          <a class="btn btn-outline-light" href="https://www.aspcapetinsurance.com/ACEP" role="button">View details</a>
+          <p>Help protect your long-term health while saving 50-100% on expensive dental services for yourself and your family, including regular and specialty care.</p>
+          <a class="btn btn-outline-light" href="https://coveragedetails.net/acep/dental/7310?utm_campaign=ACEPIns&utm_source=ACEPIns" role="button">View details</a>
         </div>
         <div class="col-xl-3 column">
           <div class="h2">
@@ -119,10 +118,11 @@
       <div class="row d-flex justify-content-center">
         <div class="col-xl-3 column">
           <div class="h2">
-            <div>Dental Insurance</div>
+            <div>Pet Insurance</div>
           </div>
-          <p>Help protect your long-term health while saving 50-100% on expensive dental services for yourself and your family, including regular and specialty care.</p>
-          <a class="btn btn-outline-light" href="https://coveragedetails.net/acep/dental/7310?utm_campaign=ACEPIns&utm_source=ACEPIns" role="button">View details</a>
+          <p>Save up to 10% on ASPCA Pet Health Insurance! Complete Coverage<sup>SM</sup> can help you give your pet the
+            best care possible with less worry about the&nbsp;cost.</p>
+          <a class="btn btn-outline-light" href="https://www.aspcapetinsurance.com/ACEP" role="button">View details</a>
         </div>
         <div class="col-xl-3 column">
           <div class="h2">
@@ -135,7 +135,7 @@
           <div class="h2">
             <div>Additional Insurance</div>
           </div>
-          <p>Information about Professional Liability Insurance, Dental and Vision Insurance and Long-Term Care
+          <p>Information about Professional Liability Insurance and Long-Term Care
             Insurance for
             ACEP members.</p>
           <a class="btn btn-outline-light" href="additional.htm" role="button">View details</a>
