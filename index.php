@@ -119,6 +119,13 @@
       <div class="row d-flex justify-content-center">
         <div class="col-xl-3 column">
           <div class="h2">
+            <div>Dental Insurance</div>
+          </div>
+          <p>Help protect your long-term health while saving 50-100% on expensive dental services for yourself and your family, including regular and specialty care.</p>
+          <a class="btn btn-outline-light" href="https://coveragedetails.net/acep/dental/7310?utm_campaign=ACEPIns&utm_source=ACEPIns" role="button">View details</a>
+        </div>
+        <div class="col-xl-3 column">
+          <div class="h2">
             <div>Auto and Home Insurance</div>
           </div>
           <p>Discounted auto, home, and renter’s insurance through Farmers Insurance Choice.<sup>SM</sup></p>
