@@ -22,7 +22,7 @@ This site is hosted at Heroku.
 
 ### Secondly, push to the Heroku server
 
-``git push heroku master``
+THIS IS NO LONGER NECESSARY. This repo points to Github which is connected to Heroku and automatically deploys when you push.
 
 ---
 
