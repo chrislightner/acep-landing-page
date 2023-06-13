@@ -80,7 +80,7 @@
         <p>Choose a coverage below to view costs, features, eligibility, renewability, limitations and exclusions.</p>
       </div>
       <div class="row d-flex justify-content-center">
-        <div class="col-xl-3 column">
+        <div class="col-xl-4 column">
           <div class="h2">
             <div>Group Disability Income Insurance</div>
           </div>
@@ -90,7 +90,7 @@
           <a class="btn btn-outline-light" href="https://coveragedetails.net/acep/di" role="button" target="_blank">View
             details</a>
         </div>
-        <div class="col-xl-3 column">
+        <div class="col-xl-4 column">
           <div class="h2">
             <div>Group Term Life Insurance</div>
           </div>
@@ -99,24 +99,27 @@
             target="_blank">View
             details</a>
         </div>
-        <div class="col-xl-3 column">
+        <div class="col-xl-4 column">
           <div class="h2">
             <div>Dental Insurance</div>
           </div>
-          <p>Help protect your long-term health while saving 50-100% on expensive dental services for yourself and your family, including regular and specialty care.</p>
-          <a class="btn btn-outline-light" href="https://coveragedetails.net/acep/dental/7310?utm_campaign=ACEPIns&utm_source=ACEPIns" role="button">View details</a>
+          <p>Help protect your long-term health while saving 50-100% on expensive dental services for yourself and your
+            family, including regular and specialty care.</p>
+          <a class="btn btn-outline-light"
+            href="https://coveragedetails.net/acep/dental/7310?utm_campaign=ACEPIns&utm_source=ACEPIns"
+            role="button">View details</a>
         </div>
-        <div class="col-xl-3 column">
+      </div>
+
+      <div class="row d-flex justify-content-center">
+        <div class="col-xl-4 column">
           <div class="h2">
             <div>Health Insurance and Employee Benefits for&nbsp;Firms</div>
           </div>
           <p>Health plan options and employee benefits for ACEP members and practices.</p>
           <a class="btn btn-outline-light" href="http://getkasa.io/acep/" role="button">View details</a>
         </div>
-      </div>
-
-      <div class="row d-flex justify-content-center">
-        <div class="col-xl-3 column">
+        <div class="col-xl-4 column">
           <div class="h2">
             <div>Pet Insurance</div>
           </div>
@@ -124,14 +127,14 @@
             best care possible with less worry about the&nbsp;cost.</p>
           <a class="btn btn-outline-light" href="https://www.aspcapetinsurance.com/ACEP" role="button">View details</a>
         </div>
-        <div class="col-xl-3 column">
+        <div class="col-xl-4 column">
           <div class="h2">
             <div>Auto and Home Insurance</div>
           </div>
           <p>Discounted auto, home, and renter’s insurance through Farmers Insurance Choice.<sup>SM</sup></p>
           <a class="btn btn-outline-light" href="https://farmersinsurancechoice.com/ACEP" role="button">View details</a>
         </div>
-        <div class="col-xl-3 column">
+        <!-- <div class="col-xl-3 column">
           <div class="h2">
             <div>Additional Insurance</div>
           </div>
@@ -139,15 +142,36 @@
             Insurance for
             ACEP members.</p>
           <a class="btn btn-outline-light" href="additional.htm" role="button">View details</a>
+        </div> -->
+      </div>
+
+      <div class="row d-flex justify-content-center">
+        <div class="col-xl-4 column">
+          <div class="h2">
+            <div>Medical Malpractice Insurance</div>
+          </div>
+          <p>Medical Malpractice for ACEP members and Employer Groups</p>
+          <a class="btn btn-outline-light" href="https://www.usiaffinity.com/acep/" role="button">View details</a>
         </div>
-        <div class="col-xl-3 column">
+        <div class="col-xl-4 column">
+          <div class="h2">
+            <div>Long-Term Care Resources</div>
+          </div>
+          <p>Expert guidance to help find the best long-term care insurance value for your unique needs from top
+            providers nationwide, with ACEP member discounts.</p>
+          <a class="btn btn-outline-light" href="https://educationcenter.ltcr.com/?id=acep" role="button">View
+            details</a>
+        </div>
+        <div class="col-xl-4 column">
           <div class="h2">
             <div>Cyber Insurance for Firms</div>
           </div>
           <p>Intelligent, Robust, Affordable Cyber Insurance</p>
-          <a class="btn btn-outline-light" href="https://marketing.seedpodcyber.com/acepsales" role="button">View details</a>
+          <a class="btn btn-outline-light" href="https://marketing.seedpodcyber.com/acepsales" role="button">View
+            details</a>
         </div>
       </div>
+
       <div class="row">
         <div class="col">
           <p class="footnote">
